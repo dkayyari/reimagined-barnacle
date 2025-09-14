@@ -1,7 +1,7 @@
 # B573_Assignment 1
 
 **Name**: Deeksha Kayyari  
-**Programming Language**: Shell Scripting (Bash) 
+**Programming Language**: Shell Scripting (Bash)  
 **Date**: 09/14/2025  
 
 ## Description
