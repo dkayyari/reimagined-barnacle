@@ -1,6 +1,6 @@
 #!/bin/bash
-# INFO-B 473/B573 Assignment 1
-# Author: [Your Name]
+# INFO-B573 Assignment 1
+# Author: Deeksha kayyari
 # Version: 1.0
 
 # Step 1: Go to home directory
