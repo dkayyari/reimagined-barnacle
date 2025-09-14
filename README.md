@@ -17,6 +17,8 @@ The end result is to navigate the command line, manage files, practice shell scr
 - `wget` (for downloading files)
 - `gunzip` (for decompressing `.gz` files)
 - Standard Unix utilities: `ls`, `head`, `wc`, `echo`, `touch`, `rm`, `grep`
+## steps for execution
+
 
 
 
