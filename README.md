@@ -10,5 +10,14 @@ The purpose of this assignment is to learn about essential Unix skills while wor
 The end result is to navigate the command line, manage files, practice shell scripting and directories, download data, manipulate text, and use a Unix text editor.
 
 ## Required Files
-script.sh file which contains script to run the steps
+-script.sh file which contains script to run the steps  
+-data_summary.txt file which has details like file name,size,permissions,total number of lines  
+## Required packages
+- `bash` (Unix shell)
+- `wget` (for downloading files)
+- `gunzip` (for decompressing `.gz` files)
+- Standard Unix utilities: `ls`, `head`, `wc`, `echo`, `touch`, `rm`, `grep`
+
+
+
 
