@@ -1,7 +1,7 @@
-# 573_Sample
+# B573_Assignment 1
 
 **Name**: Deeksha Kayyari  
-**Programming Language**: Unix/Linux  
+**Programming Language**: Shell Scripting (Bash) 
 **Date**: 09/14/2025  
 
 ## Description
