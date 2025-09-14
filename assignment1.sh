@@ -1,7 +1,8 @@
 #!/bin/bash
 # INFO-B573 Assignment 1
 # Author: Deeksha kayyari
-# Version: 1.0
+# Operating system: SUSE Linux Enterprise Server 15 SP3
+#Version:1.0.0
 
 # Step 1: Go to home directory
 cd ~
