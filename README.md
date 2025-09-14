@@ -18,6 +18,34 @@ The end result is to navigate the command line, manage files, practice shell scr
 - `gunzip` (for decompressing `.gz` files)
 - Standard Unix utilities: `ls`, `head`, `wc`, `echo`, `touch`, `rm`, `grep`
 ## steps for execution
+1. Clone the Repository
+2. Install Dependencies
+   Ensure the following tools are installed on your system:
+- bash
+- wget
+- gunzip
+- Standard Unix utilities: ls, head, wc, echo, touch, rm, grep
+
+3. Navigate to the Script Location  
+```bash
+cd assignment1
+```
+4.Make the Script Executable
+```bash
+chmod +x assignment1.sh
+```
+5.Run the Script
+```bash
+./assignment1.sh
+```
+6.Output files
+- Informatics_573/: Contains all downloaded and unzipped chromosome 1 assemblies
+- data_summary.txt: Contains file metadata, first 10 lines of each assembly, and line counts
+
+
+
+
+
 
 
 
